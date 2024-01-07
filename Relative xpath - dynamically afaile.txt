@@ -1,0 +1,64 @@
+Relative xpath -> dynamically afaile generate garna parxa 
+absolute xpath ->
+
+1.Basic xpath 
+//tagname[@attribute='value']
+
+2.Basic xpath using and OR or
+//tagname[@attribute='value'or @attribute='value']
+//tagname[@attribute='value'and @attribute='value']
+
+3.Basic xpath using contains()
+//tagname[contains.text(),"value"]
+
+4.Starts with(It helps to reduce the length of locators.
+//tagname[starts.with@attribute,'value']
+
+5.xpath using text function
+//tagname[text().'value']
+
+-----------------------------------------------------------------------
+Website: EPauna : a complete hospitality 
+1.basic path for username 
+//input[@id='login email']
+
+
+2.Basic xpath using and OR or
+//input[@class='signup' 0r @id='login email']
+
+3.contains()
+//span[contains.text(),"login"]
+
+4.button[starts.with@class="button"]
+
+5.title[text().'pauna.tukisoft.com.np']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attention to Detail
+
+
+
+
+
+
+
